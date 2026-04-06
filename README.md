@@ -12,7 +12,7 @@ A Python-based voice assistant that uses speech recognition, text-to-speech, Ope
 
 ## Project Structure
 ```
-OIBSIP_project_voice_assistant/
+VOICE_ASSISTANT/
 ├── gmail_oauth.py        # Gmail authentication and email functions
 ├── main.py               # Main assistant application
 ├── requirements.txt      # Python dependencies
@@ -28,7 +28,7 @@ OIBSIP_project_voice_assistant/
 ## Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ROSHNIFATIMA/VOICE_ASSISTANT
+   git clone https://github.com/FATHIMA-ROSHINI/VOICE_ASSISTANT
    cd VOICE_ASSISTANT
    ```
 2. **Create and activate a virtual environment**
